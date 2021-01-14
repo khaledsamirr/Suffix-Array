@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1610470964 source:e:\suffix array\main.cpp
+	<iostream>
+	<algorithm>
+
